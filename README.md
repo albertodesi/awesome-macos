@@ -13,11 +13,17 @@ My personal list of awesome **tools and apps I actually use** for macOS.
 5. [Chrome Extensions](#chrome-extensions)
 
 ## Utilities
+- [1Password](https://1password.com/) - A password manager, digital vault, form filler and secure digital wallet. [`brew install --cask 1password`]
+- [2FHey](https://2fhey.com/) - iMessage AutoFill For Any Browser
 - [App Cleaner](https://freemacsoft.net/appcleaner/) - Cleans up the files left behind after deleting apps [`brew install --cask appcleaner`]
+- [AltTab](https://alt-tab-macos.netlify.app/) - Open source window switcher with window previews [`brew install --cask alt-tab`]
 - [Cyberduck](https://cyberduck.io/) - A good FTP client for Mac [`brew install --cask cyberduck`]
+- [DeepL](https://www.deepl.com/) - The world's most accurate translator [`brew install --cask deepl`]
+- [Ethernet Status](https://ethernetstatus.com/) - Missing LAN status bar icon
+- [Ferdium](https://ferdium.org/) - Ferdium is a desktop app that helps you organize how you use your favourite apps by combining them into one application [`brew install --cask ferdium`]
 - [Google Drive](https://www.google.com/drive/) - Cloud storage and sync [`brew install --cask google-drive`]
 - [Maccy](https://github.com/p0deje/Maccy) - Clean and simple clipboard manager [`brew install --cask maccy`]
-- [MacMediaKeyForwarder](https://github.com/quentinlesceller/macmediakeyforwarder) - Make the pause/next buttons work on Spotify and other media players [[download](https://github.com/milgra/macmediakeyforwarder/releases)]
+- [MacMediaKeyForwarder](https://github.com/quentinlesceller/macmediakeyforwarder) - Make the pause/next buttons work on Spotify and other media players
 - [The Unarchiver](https://theunarchiver.com/) - Best unarchiver for Mac [`brew install --cask the-unarchiver`]
 
 ## Media
@@ -36,24 +42,13 @@ My personal list of awesome **tools and apps I actually use** for macOS.
 
 ## Dev
 
-- [Fira Code](https://github.com/tonsky/FiraCode) - An open-source font designed specifically for better and easier code readability [`brew tap homebrew/cask-fonts && brew install --cask font-fira-code` + [this](https://github.com/tonsky/FiraCode/wiki#enabling-ligatures)]
+- [Docker](https://www.docker.com/) - Powerful, performs operating-system-level virtualization. [`brew install docker`]
 - [GitHub Desktop](https://desktop.github.com/) - Git client app for GitHub [`brew install --cask github`]
-- [HexEdit](https://hextedit.app/) - Fast and native hex editor [[Install](https://apps.apple.com/us/app/hextedit/id1557247094?mt=12&itsct=apps_box&itscg=30200)]
-- [Insomnia](https://insomnia.rest/products/insomnia) - Clean API client and design tool [`brew install --cask insomnia`]
-- [Sourcetree](https://www.sourcetreeapp.com/) - Clean and simple Git client app [`brew install --cask sourcetree`]
-- [Sublime Text](https://www.sublimetext.com/) - Really simple and good text/code editor [`brew install --cask sublime-text`]
-- [TablePlus](https://tableplus.com/) - A clean GUI app for relational database [`brew install --cask tableplus`]
 - [Visual Studio Code](https://code.visualstudio.com/) - Best IDE software ever [`brew install --cask visual-studio-code`]
 
 ## Chrome Extensions
 
-- [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb?hl=en) - An open source password manager
-- [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass paywall on lots of popular news sites
-- [Earth View from Google Earth](https://chrome.google.com/webstore/detail/earth-view-from-google-ea/bhloflhklmhfpedakmangadcdofhnnoh?hl=en) - A pretty Google Earth image on every new tab you open
-- [File Icons for Github and Gitlab](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe?hl=en) - Adds file icons to GitHub + Gitlab, makes looking at repos online easier
-- [Google Analytics Opt-out](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh?hl=en) - Make Google track you less when surfing the web
-- [Simplify Gmail](https://chrome.google.com/webstore/detail/simplify-gmail/pbmlfaiicoikhdbjagjbglnbfcbcojpj?hl=en) - Cleans Gmail up and removes unnecessary bloat
-- [TunnelBear VPN](https://chrome.google.com/webstore/detail/tunnelbear-vpn/omdakjcmkglenbhjadbccaookpfjihpa?hl=en) - Good and legit VPN, 1.5GB free per month
-- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) - A good open-source and efficient ad blocker
-- [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) - Shows the stack the website you're on is using
-- [Zoom Closer](https://chrome.google.com/webstore/detail/zoom-closer/appjbedfhcmpknanmbndpojcllfaemal?hl=en) - Automatically closes the annoying "Opening Zoom" tabs
+- [1Password](https://chrome.google.com/webstore/detail/1password-%E2%80%93-password-mana/aeblfdkhhhdcdjpifhhbdiojplfjncoa?hl=en) - The best way to experience 1Password in your browser
+- [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en) - The simplest way to take a full page screenshot of your current browser window
+- [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) - Shows the technology stack the website you're on is using
+
