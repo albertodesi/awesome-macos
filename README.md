@@ -13,8 +13,8 @@ My personal list of awesome **tools and apps I actually use** for macOS.
 5. [Chrome Extensions](#chrome-extensions)
 
 ## Utilities
-- [1Password](https://1password.com/) - A password manager, digital vault, form filler and secure digital wallet. [`brew install --cask 1password`]
-- [2FHey](https://2fhey.com/) - iMessage AutoFill For Any Browser
+- [1Password](https://1password.com/) - A password manager, digital vault, form filler and secure digital wallet [`brew install --cask 1password`]
+- [2FHey](https://2fhey.com/) - iMessage AutoFill for any browser
 - [App Cleaner](https://freemacsoft.net/appcleaner/) - Cleans up the files left behind after deleting apps [`brew install --cask appcleaner`]
 - [AltTab](https://alt-tab-macos.netlify.app/) - Open source window switcher with window previews [`brew install --cask alt-tab`]
 - [Cakebrewjs](https://github.com/shemeshg/cakebrewjs) - Homebrew GUI App written in electron [`brew install --cask cakebrewjs`]
@@ -29,7 +29,7 @@ My personal list of awesome **tools and apps I actually use** for macOS.
 - [KeepingYouAwake](https://keepingyouawake.app/) - Prevents your Mac from going to sleep [`brew install --cask keepingyouawake`]
 - [Maccy](https://github.com/p0deje/Maccy) - Clean and simple clipboard manager [`brew install --cask maccy`]
 - [macFUSE](https://osxfuse.github.io/) - Allows you to extend macOS's native file handling capabilities via third-party file systems [`brew install --cask macfuse`]
-- [MacMediaKeyForwarder](https://github.com/quentinlesceller/macmediakeyforwarder) - Make the pause/next buttons work on Spotify and other media players [`brew install --cask macmediakeyforwarder`]
+- [MacMediaKeyForwarder](https://github.com/quentinlesceller/macmediakeyforwarder) - Media key forwarder for iTunes and Spotify [`brew install --cask macmediakeyforwarder`]
 - [OBS](https://obsproject.com/) - Open-source software for live streaming and screen recording [`brew install --cask obs`]
 - [Subscriptions](https://apps.apple.com/app/subscriptions-track-expenses/id1577082754) - Easily keep track of and manage your subscriptions with ease
 - [The Unarchiver](https://theunarchiver.com/) - Best unarchiver for Mac [`brew install --cask the-unarchiver`]
@@ -42,7 +42,7 @@ My personal list of awesome **tools and apps I actually use** for macOS.
 
 - [IINA](https://iina.io/) - Free and open-source media player [`brew install --cask iina`]
 - [Spotify](https://www.spotify.com/) - Best music streaming service [`brew install --cask spotify`]
-- [VLC](https://www.videolan.org/) - Plays any video [`brew install --cask vlc`]
+- [VLC](https://www.videolan.org/) - THE multimedia player [`brew install --cask vlc`]
 
 ## Documents
 
