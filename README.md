@@ -23,6 +23,7 @@ My personal list of awesome **tools and apps I actually use** for macOS.
 - [draw.io](https://www.drawio.com/) - Client for online diagram software [`brew install --cask drawio`]
 - [Ethernet Status](https://ethernetstatus.com/) - Missing LAN status bar icon
 - [Ferdium](https://ferdium.org/) - Ferdium is a desktop app that helps you organize how you use your favourite apps by combining them into one application [`brew install --cask ferdium`]
+- [ffmpeg](https://ffmpeg.org/) - Play, record, convert, and stream audio and video [`brew install ffmpeg`]
 - [f.lux](https://justgetflux.com/) - It makes the color of your computer's display adapt to the time of day [`brew install --cask flux`]
 - [Google Drive](https://www.google.com/drive/) - Cloud storage and sync [`brew install --cask google-drive`]
 - [Hidden Bar](https://github.com/dwarvesf/hidden) -  Lets you hide menu bar items to give your Mac a cleaner look [`brew install --cask hiddenbar`]
