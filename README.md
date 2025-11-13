@@ -17,7 +17,7 @@ My personal list of awesome **tools and apps I actually use** for macOS.
 - [2FHey](https://2fhey.com/) - iMessage AutoFill for any browser
 - [App Cleaner](https://freemacsoft.net/appcleaner/) - Cleans up the files left behind after deleting apps [`brew install --cask appcleaner`]
 - [AltTab](https://alt-tab-macos.netlify.app/) - Open source window switcher with window previews [`brew install --cask alt-tab`]
-- [BrewMate](https://github.com/romankurnovskii/BrewMate) - BrewMate is a macOS GUI application that makes it easy to search for, install, and uninstall Homebrew casks. [`brew install romankurnovskii/cask/brewmate --cask`]
+- [Cork](https://corkmac.app/) - Cork is a macOS GUI application that makes it easy to search for, install, and uninstall Homebrew formulae/casks. [`brew install --cask cork`]
 - [Cyberduck](https://cyberduck.io/) - A good FTP client for Mac [`brew install --cask cyberduck`]
 - [DeepL](https://www.deepl.com/) - The world's most accurate translator [`brew install --cask deepl`]
 - [draw.io](https://www.drawio.com/) - Client for online diagram software [`brew install --cask drawio`]
