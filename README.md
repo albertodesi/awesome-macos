@@ -20,6 +20,7 @@ My personal list of awesome **tools and apps I actually use** for macOS.
 - [Cork](https://corkmac.app/) - Cork is a macOS GUI application that makes it easy to search for, install, and uninstall Homebrew formulae/casks. [`brew install --cask cork`]
 - [Cyberduck](https://cyberduck.io/) - A good FTP client for Mac [`brew install --cask cyberduck`]
 - [DeepL](https://www.deepl.com/) - The world's most accurate translator [`brew install --cask deepl`]
+- [DockLock](https://timlenardo.github.io/docklock/) - DockLock stops your Dock from jumping monitors every time your cursor grazes the bottom of the screen.
 - [draw.io](https://www.drawio.com/) - Client for online diagram software [`brew install --cask drawio`]
 - [Ethernet Status](https://ethernetstatus.com/) - Missing LAN status bar icon
 - [Ferdium](https://ferdium.org/) - Ferdium is a desktop app that helps you organize how you use your favourite apps by combining them into one application [`brew install --cask ferdium`]
