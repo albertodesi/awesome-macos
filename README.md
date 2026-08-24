@@ -28,6 +28,7 @@ My personal list of awesome **tools and apps I actually use** for macOS.
 - [f.lux](https://justgetflux.com/) - It makes the color of your computer's display adapt to the time of day [`brew install --cask flux`]
 - [Google Drive](https://www.google.com/drive/) - Cloud storage and sync [`brew install --cask google-drive`]
 - [Hidden Bar](https://github.com/dwarvesf/hidden) -  Lets you hide menu bar items to give your Mac a cleaner look [`brew install --cask hiddenbar`]
+- [iBar Pro](https://www.better365.com/ibar.html) - iBar is an excellent menu bar management tool on Mac, which supports hiding menu bar icons and displaying them in separate windows, perfectly solving the problem of too many messy menu bar icons and menu bar icons on notch screens being blocked by notch. [https://apps.apple.com/app/ibar-pro-menubar-control-tool/id6737150304]
 - [KeepingYouAwake](https://keepingyouawake.app/) - Prevents your Mac from going to sleep [`brew install --cask keepingyouawake`]
 - [Keka](https://www.keka.io/) - The macOS file archiver/unarchiver [`brew install --cask keka`]
 - [Maccy](https://github.com/p0deje/Maccy) - Clean and simple clipboard manager [`brew install --cask maccy`]
