@@ -29,9 +29,11 @@ My personal list of awesome **tools and apps I actually use** for macOS.
 - [Google Drive](https://www.google.com/drive/) - Cloud storage and sync [`brew install --cask google-drive`]
 - [Hidden Bar](https://github.com/dwarvesf/hidden) -  Lets you hide menu bar items to give your Mac a cleaner look [`brew install --cask hiddenbar`]
 - [KeepingYouAwake](https://keepingyouawake.app/) - Prevents your Mac from going to sleep [`brew install --cask keepingyouawake`]
+- [Keka](https://www.keka.io/) - The macOS file archiver/unarchiver [`brew install --cask keka`]
 - [Maccy](https://github.com/p0deje/Maccy) - Clean and simple clipboard manager [`brew install --cask maccy`]
 - [macFUSE](https://osxfuse.github.io/) - Allows you to extend macOS's native file handling capabilities via third-party file systems [`brew install --cask macfuse`]
 - [MacMediaKeyForwarder](https://github.com/quentinlesceller/macmediakeyforwarder) - Media key forwarder for iTunes and Spotify [`brew install --cask macmediakeyforwarder`]
+- [Nextpad++](https://nextpad.org/) - Nextpad++ is a native editor for macOS. [`brew install --cask nextpad-plus-plus/homebrew-nextpad/nextpad`]
 - [OBS](https://obsproject.com/) - Open-source software for live streaming and screen recording [`brew install --cask obs`]
 - [Subscriptions](https://apps.apple.com/app/subscriptions-track-expenses/id1577082754) - Easily keep track of and manage your subscriptions with ease
 - [The Unarchiver](https://theunarchiver.com/) - Best unarchiver for Mac [`brew install --cask the-unarchiver`]
