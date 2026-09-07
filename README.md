@@ -36,6 +36,7 @@ My personal list of awesome **tools and apps I actually use** for macOS.
 - [MacMediaKeyForwarder](https://github.com/quentinlesceller/macmediakeyforwarder) - Media key forwarder for iTunes and Spotify [`brew install --cask macmediakeyforwarder`]
 - [Nextpad++](https://nextpad.org/) - Nextpad++ is a native editor for macOS. [`brew install --cask nextpad-plus-plus/homebrew-nextpad/nextpad`]
 - [OBS](https://obsproject.com/) - Open-source software for live streaming and screen recording [`brew install --cask obs`]
+- [Orkas](https://orkas.ai/?source=gh_alberto) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 - [Subscriptions](https://apps.apple.com/app/subscriptions-track-expenses/id1577082754) - Easily keep track of and manage your subscriptions with ease
 - [The Unarchiver](https://theunarchiver.com/) - Best unarchiver for Mac [`brew install --cask the-unarchiver`]
 - [Transmission](https://transmissionbt.com/) - A Fast, Easy and Open-source BitTorrent Client [`brew install --cask transmission`]
