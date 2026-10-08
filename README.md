@@ -34,6 +34,7 @@ My personal list of awesome **tools and apps I actually use** for macOS.
 - [Maccy](https://github.com/p0deje/Maccy) - Clean and simple clipboard manager [`brew install --cask maccy`]
 - [macFUSE](https://osxfuse.github.io/) - Allows you to extend macOS's native file handling capabilities via third-party file systems [`brew install --cask macfuse`]
 - [MacMediaKeyForwarder](https://github.com/quentinlesceller/macmediakeyforwarder) - Media key forwarder for iTunes and Spotify [`brew install --cask macmediakeyforwarder`]
+- [Markdown Preview](https://github.com/pluk-inc/markdown-preview) - A simple Markdown viewer for reading .md files [`brew install --cask markdown-preview`]
 - [Nextpad++](https://nextpad.org/) - Nextpad++ is a native editor for macOS. [`brew install --cask nextpad-plus-plus/homebrew-nextpad/nextpad`]
 - [OBS](https://obsproject.com/) - Open-source software for live streaming and screen recording [`brew install --cask obs`]
 - [Subscriptions](https://apps.apple.com/app/subscriptions-track-expenses/id1577082754) - Easily keep track of and manage your subscriptions with ease
