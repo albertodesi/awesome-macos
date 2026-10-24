@@ -16,6 +16,7 @@ My personal list of awesome **tools and apps I actually use** for macOS.
 - [1Password](https://1password.com/) - A password manager, digital vault, form filler and secure digital wallet [`brew install --cask 1password`]
 - [2FHey](https://2fhey.com/) - iMessage AutoFill for any browser
 - [App Cleaner](https://freemacsoft.net/appcleaner/) - Cleans up the files left behind after deleting apps [`brew install --cask appcleaner`]
+- [MacClean](https://thulem.com/) - Native macOS disk cleaner for WeChat/QQ/WeCom caches, Xcode/AI caches, large files, and a Storage Map (freemium ¥98) [`brew install --cask jinglings/macclean/macclean`]
 - [AltTab](https://alt-tab-macos.netlify.app/) - Open source window switcher with window previews [`brew install --cask alt-tab`]
 - [Cork](https://corkmac.app/) - Cork is a macOS GUI application that makes it easy to search for, install, and uninstall Homebrew formulae/casks. [`brew install --cask cork`]
 - [Cyberduck](https://cyberduck.io/) - A good FTP client for Mac [`brew install --cask cyberduck`]
