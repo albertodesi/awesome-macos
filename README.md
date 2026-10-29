@@ -31,6 +31,7 @@ My personal list of awesome **tools and apps I actually use** for macOS.
 - [iBar Pro](https://www.better365.com/ibar.html) - iBar is an excellent menu bar management tool on Mac, which supports hiding menu bar icons and displaying them in separate windows, perfectly solving the problem of too many messy menu bar icons and menu bar icons on notch screens being blocked by notch.
 - [KeepingYouAwake](https://keepingyouawake.app/) - Prevents your Mac from going to sleep [`brew install --cask keepingyouawake`]
 - [Keka](https://www.keka.io/) - The macOS file archiver/unarchiver [`brew install --cask keka`]
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - Open-source menu bar app that restores window layouts across multiple displays and Spaces. External display brightness follows the built-in ambient sensor; arrangement presets switch by USB-C port; four sleep-prevention levels.
 - [Maccy](https://github.com/p0deje/Maccy) - Clean and simple clipboard manager [`brew install --cask maccy`]
 - [macFUSE](https://osxfuse.github.io/) - Allows you to extend macOS's native file handling capabilities via third-party file systems [`brew install --cask macfuse`]
 - [MacMediaKeyForwarder](https://github.com/quentinlesceller/macmediakeyforwarder) - Media key forwarder for iTunes and Spotify [`brew install --cask macmediakeyforwarder`]
